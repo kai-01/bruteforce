@@ -1,5 +1,5 @@
 # bruteforce
-Brute force a string in C++.
+Brute force a string in C++. piss
 
 # How it works
 - Takes input from user through the terminal
